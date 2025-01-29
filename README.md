@@ -30,9 +30,13 @@ A RESTful API for performing CRUD operations on employee data using Spring Boot,
 ### Endpoints
 
 -POST	/api/employees Create new employee
+
 -GET	/api/employees	Get all employees
+
 -GET	/api/employees/{eId}	Get employee by ID
+
 -PUT	/api/employees/{eId}	Update employee
+
 -DELETE	/api/employees/{eId}	Delete employee
 
 ### JSON FORMAT
